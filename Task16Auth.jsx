@@ -128,3 +128,4 @@ const styles = {
 };
 
 export default Auth;
+
