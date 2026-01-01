@@ -92,7 +92,6 @@ function EventForm() {
   );
 }
 
-// ===== STYLES (NO BACKGROUND IMAGE HERE) =====
 const styles = {
   page: {
     width: "100vw",
@@ -100,7 +99,6 @@ const styles = {
     display: "flex",
     justifyContent: "center",
     alignItems: "center"
-    // ✅ YOUR BACKGROUND IMAGE COMES FROM ELSEWHERE
   },
 
   form: {
@@ -172,3 +170,4 @@ const styles = {
 };
 
 export default EventForm;
+
